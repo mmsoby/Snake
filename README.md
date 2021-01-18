@@ -1,1 +1,2 @@
 # Snake
+This was my first time doing something complicated with python so I started it with a youtube tutorial. Then I added my own features that I thought were missing like sound, border collisions, and a color theme. I copied the color scheme from the Google version of Snake. I want to make a Machine Lerning algorithm that can play this game of snake but I need to get better with regular python before I can start using pytorch.
